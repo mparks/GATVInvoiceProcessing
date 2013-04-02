@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\gatvBilling\gatvBilling\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\gatvBilling\gatvBilling\bin\Debug\gatvBilling.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\gatvBilling\gatvBilling\bin\Debug\gatvBilling.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\gatvBilling\gatvBilling\obj\Debug\gatvBilling.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\gatvBilling\gatvBilling\obj\Debug\gatvBilling.pdb

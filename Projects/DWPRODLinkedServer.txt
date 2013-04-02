@@ -1,0 +1,47 @@
+/****** Object:  LinkedServer [DWPROD]    Script Date: 12/13/2011 10:06:57 ******/
+EXEC master.dbo.sp_addlinkedserver @server = N'DWPROD', @srvproduct=N'dwprod', @provider=N'OraOLEDB.Oracle', @datasrc=N'(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=anubis.gatech.edu)(PORT=1521))(CONNECT_DATA=(SERVER=dedicated)(SERVICE_NAME=dwprod)))'
+ /* For security reasons the linked server remote logins password is changed with ######## */
+EXEC master.dbo.sp_addlinkedsrvlogin @rmtsrvname=N'DWPROD',@useself=N'False',@locallogin=NULL,@rmtuser=N'mp54',@rmtpassword='########'
+
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'collation compatible', @optvalue=N'false'
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'data access', @optvalue=N'true'
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'dist', @optvalue=N'false'
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'pub', @optvalue=N'false'
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'rpc', @optvalue=N'true'
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'rpc out', @optvalue=N'true'
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'sub', @optvalue=N'false'
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'connect timeout', @optvalue=N'0'
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'collation name', @optvalue=null
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'lazy schema validation', @optvalue=N'false'
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'query timeout', @optvalue=N'0'
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'use remote collation', @optvalue=N'false'
+GO
+
+EXEC master.dbo.sp_serveroption @server=N'DWPROD', @optname=N'remote proc transaction promotion', @optvalue=N'true'
+GO
+
+

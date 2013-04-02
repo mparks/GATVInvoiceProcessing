@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ei2billing\ei2billing\bin\Debug\ei2billing.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ei2billing\ei2billing\bin\Debug\ei2billing.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ei2billing\ei2billing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ei2billing\ei2billing\obj\Debug\ei2billing.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ei2billing\ei2billing\obj\Debug\ei2billing.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ei2billing\ei2billing\obj\Debug\ei2billing.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ei2billing\ei2billing\obj\Debug\ei2billing.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ei2billing\ei2billing\obj\Debug\ei2billing.Form1.resources

@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\bin\Debug\GoogleSpreadsheet3.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\bin\Debug\GoogleSpreadsheet3.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\bin\Debug\Google.GData.AccessControl.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\bin\Debug\Google.GData.Apps.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\bin\Debug\Google.GData.Client.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\bin\Debug\Google.GData.Documents.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\obj\Debug\GoogleSpreadsheet3.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\obj\Debug\GoogleSpreadsheet3.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\obj\Debug\GoogleSpreadsheet3.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet3\GoogleSpreadsheet3\obj\Debug\GoogleSpreadsheet3.pdb

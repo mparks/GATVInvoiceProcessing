@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet1\GoogleSpreadsheet1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet1\GoogleSpreadsheet1\bin\GoogleSpreadsheet1.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet1\GoogleSpreadsheet1\bin\GoogleSpreadsheet1.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet1\GoogleSpreadsheet1\bin\Google.GData.Apps.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet1\GoogleSpreadsheet1\bin\Google.GData.Client.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet1\GoogleSpreadsheet1\bin\Google.GData.Documents.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet1\GoogleSpreadsheet1\bin\Google.GData.Spreadsheets.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet1\GoogleSpreadsheet1\bin\Google.GData.Extensions.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet1\GoogleSpreadsheet1\obj\Debug\GoogleSpreadsheet1.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GoogleSpreadsheet1\GoogleSpreadsheet1\obj\Debug\GoogleSpreadsheet1.pdb
